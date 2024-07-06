@@ -1,0 +1,4 @@
+3. Are you an expert on data structures?
+ALL
+Which of the following data structures can erase from its beginning or its end in O(1) time?
+ans: deque
